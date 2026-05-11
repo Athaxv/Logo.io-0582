@@ -79,7 +79,7 @@ export default function EditorPage() {
       <Link to="/">
         <button className="absolute top-4 left-4 z-30 flex items-center gap-2 px-3 py-2 rounded-xl border border-white/10 text-[#737373] hover:text-white hover:border-white/20 hover:bg-white/5 transition-all text-xs font-medium backdrop-blur-sm" style={{ background: "rgba(13,13,13,0.75)" }}>
           <ArrowLeft className="size-3.5" />
-          Back
+          ReBack
         </button>
       </Link>
 
